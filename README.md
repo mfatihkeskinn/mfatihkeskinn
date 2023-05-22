@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-# I am M. Fatih KESKIN
+## I am M. Fatih KESKIN
 
-- 🔭 I’m currently working as Sofware Engineer <a href="https://github.com/AudioElektronik" target="_self">
+- 🔭 I’m currently working as Sofware Engineer at <a href="https://github.com/AudioElektronik" target="_self">
 Audio Elektronik</a>
 - 🌱 I’m currently learning a lot of things
 - 📫 <a href="https://sites.google.com/view/fatihkeskin/homepage" target="_self">
@@ -35,6 +35,13 @@ Personal website</a>
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=gnu-Matlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HardwareDesign-AltiumDesigner-informational?style=flat&logo=gnu-AltiumDesigner&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Simulation-Proteus-informational?style=flat&logo=gnu-Proteus&logoColor=white&color=2bbc8a)
+
+---
+
+
+
+
+
 
 
 

@@ -1,11 +1,13 @@
 # Hi there 👋
 
 
-# I am M. Fatih KESKİN
+# I am M. Fatih KESKIN
 
-- 🔭 I’m currently working as Sofware Engineer 
+- 🔭 I’m currently working as Sofware Engineer <a href="https://github.com/AudioElektronik" target="_self">
+Audio Elektronik</a>
 - 🌱 I’m currently learning a lot of things
-- 📫 Personal website: https://sites.google.com/view/fatihkeskin/homepage
+- 📫 <a href="https://sites.google.com/view/fatihkeskin/homepage" target="_self">
+Personal website</a>
 - 💬 You can reach me at fatihkeskin@audio.com.tr
 
 ---

@@ -14,12 +14,12 @@ Personal website</a>
 
 <p align="left">
   <img height="150"
-    src="https://github-readme-stats.vercel.app/api?username=MFatihKeskin&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true">
+    src="https://github-readme-stats.vercel.app/api?username=mfatihkeskinn&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true">
   <img height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFatihKeskin&layout=compact&theme=dracula&bg_color=21262D&hide_border=true">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihkeskinn&layout=compact&theme=dracula&bg_color=21262D&hide_border=true">
   <br> <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img  src="https://komarev.com/ghpvc/?username=MFatihKeskin">
+  <img  src="https://komarev.com/ghpvc/?username=mfatihkeskinn">
 </p>
 
 ---
@@ -33,7 +33,6 @@ Personal website</a>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=gnu-C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=gnu-Matlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HardwareDesign-AltiumDesigner-informational?style=flat&logo=gnu-AltiumDesigner&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Simulation-Proteus-informational?style=flat&logo=gnu-Proteus&logoColor=white&color=2bbc8a)
 
 ---
